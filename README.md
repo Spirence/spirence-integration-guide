@@ -156,4 +156,4 @@ Depending on your technical setup and goals, you can also:
 - Schedule automated syncs for employee data to keep enrollments current.
 - Access analytics on engagement and prevention scores via your dashboard or API.
 
-If you’d like a guided walkthrough or custom integration, reach out to your Spirence Success Manager at [connect@spirence.com](mailto:connect@spirencewellness.com).
+If you’d like a guided walkthrough or custom integration, reach out to your Spirence Success Manager at [connect@spirencewellness.com](mailto:connect@spirencewellness.com).
