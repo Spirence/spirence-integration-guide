@@ -9,8 +9,8 @@ This guide covers everything you need to get your employees enrolled, your syste
 ## Table of Contents
 
 - [Onboarding Wizard](#onboarding-wizard)
-- [Whitelist Information](#whitelist-information)
 - [Auto-Enrolling Employees](#auto-enrolling-employees)
+- [Whitelist Information](#whitelist-information)
 - [SSO (Single Sign-On)](#sso-single-sign-on)
 - [Nectar: Content Licensing API](#nectar-content-licensing-api)
 - [Additional Integration Options](#additional-integration-options)
@@ -31,6 +31,25 @@ The wizard will guide you through:
 [Access Onboarding Wizard](https://app.spirencewellness.com/onboarding-wizard)
 
 &nbsp;
+
+## Auto-Enrolling Employees
+
+To make setup simple, Spirence supports bulk employee enrollment via CSV upload.
+
+Download the enrollment template below and fill it in with your employee roster. Required fields are highlighted in the first row.
+
+Once completed, you can securely upload your spreadsheet through your Employer Dashboard, or send it directly to your Spirence implementation manager.
+
+After upload, your employees will receive:
+
+- Immediate access to Spirence platform
+- A welcome email with login instructions
+- An introduction to Spirence and available services
+
+[Download Auto-Enroll Template](https://futuresofpb-my.sharepoint.com/:x:/g/personal/cholder_spirencewellness_com/EQztdmsAYa5FqUcVKmLoBBwB9huexyjTAkPAijucpk0UMA?e=xMK08E)
+
+&nbsp;
+
 ## Whitelist Information
 
 To ensure all Spirence services function properly, please whitelist the following domains and IPs within your company’s firewall or email filters. If your company uses strict outbound content filters, confirm that Vimeo and Spirence domains are accessible to avoid playback or login issues.
@@ -98,23 +117,7 @@ tsp1-brevo.net 
 
 
 &nbsp;
-## Auto-Enrolling Employees
 
-To make setup simple, Spirence supports bulk employee enrollment via CSV upload.
-
-Download the enrollment template below and fill it in with your employee roster. Required fields are highlighted in the first row.
-
-Once completed, you can securely upload your spreadsheet through your Employer Dashboard, or send it directly to your Spirence implementation manager.
-
-After upload, your employees will receive:
-
-- Immediate access to Spirence platform
-- A welcome email with login instructions
-- An introduction to Spirence and available services
-
-[Download Auto-Enroll Template](https://futuresofpb-my.sharepoint.com/:x:/g/personal/cholder_spirencewellness_com/EQztdmsAYa5FqUcVKmLoBBwB9huexyjTAkPAijucpk0UMA?e=xMK08E)
-
-&nbsp;
 ## SSO (Single Sign-On)
 
 Spirence offers seamless authentication via SSO (SAML 2.0 or OAuth 2.0) to provide employees with direct, secure access from your internal systems.
