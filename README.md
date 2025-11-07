@@ -28,7 +28,7 @@ The wizard will guide you through:
 - Account and admin setup
 - Employee enrollment preferences
 
-[Access Onboarding Wizard](https://app.spirencewellness.com/integration-guide/onboarding-wizard)
+[Access Onboarding Wizard](https://app.spirencewellness.com/onboarding-wizard)
 
 &nbsp;
 ## Whitelist Information
